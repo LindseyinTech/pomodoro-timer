@@ -10,7 +10,7 @@ This project focused on utilizing React hooks to build a timer that implemented 
 
 To view this project click [here](https://tomato-timer-gamma.vercel.app/)
 
-This project uses React and is hosted on Vercel.
+This project uses React and Bootstrap; hosted on Vercel.
 
 ## Questions
 Questions? Reach out at [github.com/lindseyindev](github.com/lindseyindev)
